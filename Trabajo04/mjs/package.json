@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/midudev/curso-node-js.git"
+    "url": "git+https://github.com/Juanpi0021/NodeJS.git"
   },
   "keywords": [
     "curso",
@@ -16,10 +16,10 @@
     "nodejs",
     "midudev"
   ],
-  "author": "Miguel Ángel Durán García - midudev",
+  "author": "Juan Pablo Ortiz Porras",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/midudev/curso-node-js/issues"
+    "url": "https://github.com/Juanpi0021/NodeJS/issues"
   },
   "homepage": "https://github.com/midudev/curso-node-js#readme",
   "dependencies": {

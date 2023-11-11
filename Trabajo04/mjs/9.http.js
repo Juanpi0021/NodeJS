@@ -12,6 +12,6 @@ const server = http.createServer((req, res) => {
 
 findAvailablePort(desiredPort).then(port => {
   server.listen(port, () => {
-    console.log(`server listening on port http://localhost:${port}`)
+    console.log(`server listening on port https://node-js-eta.vercel.app${port}`)
   })
 })
